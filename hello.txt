@@ -1,4 +1,6 @@
 hello¡ª¡ªworld.
 Git is free software.
 c++.
-touday.
+today.
+readme
+my stupid boss still prefers SVN.
