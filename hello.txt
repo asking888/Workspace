@@ -4,3 +4,6 @@ c++.
 today.
 readme
 my stupid boss still prefers SVN.
+now
+gitttt
+shut up
